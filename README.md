@@ -20,5 +20,5 @@
 </div>
 
 <br>
-Estudante de desenvolvimento Front-end e Graduanda Sistemas para internet .
+
 
